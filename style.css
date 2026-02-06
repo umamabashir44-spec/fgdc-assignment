@@ -1,0 +1,84 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f2f6fa;
+}
+
+/* Header */
+.header {
+  background-color: #0b3d91;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+.logo {
+  width: 80px;
+}
+
+/* Navigation */
+.navbar {
+  background-color: #174ea6;
+  text-align: center;
+  padding: 10px;
+}
+
+.navbar a {
+  color: white;
+  margin: 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.navbar a:hover {
+  text-decoration: underline;
+}
+
+/* Sections */
+section {
+  background-color: white;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+h2 {
+  color: #0b3d91;
+}
+
+/* Table */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid #333;
+}
+
+th, td {
+  padding: 10px;
+  text-align: center;
+}
+
+/* Form */
+input, textarea {
+  width: 90%;
+  padding: 8px;
+}
+
+button {
+  background-color: #0b3d91;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+/* Footer */
+footer {
+  background-color: #0b3d91;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
